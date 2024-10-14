@@ -1,0 +1,20 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbox button {
+    height: 23px;
+    border-radius: 5px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.margin1 {
+    margin: 5px;
+}
